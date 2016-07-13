@@ -28,7 +28,7 @@ Finally, by obtaining different hypotheses for each class comparison, I was able
 The predicted value on a given input was the class that returned the highest probability of being true. On average, predictions were
 accurate **94.9%** of the time using this method. 
 
-Feel free to run (ex3.m)[ex3/ex3.m] to see all of this in action!
+Feel free to run [ex3.m](ex3/ex3.m) to see all of this in action!
 
 ### Neural Networks
 
@@ -38,6 +38,6 @@ were in a raw data file. I simply used these inputs to run some Feedforward Prop
 accuracy of the predictions _increased_ to roughly **97.5%**. This is indicative of the fact that nonlinear hypotheses can often
 be used to build more consistent hypotheses. 
 
-Upon running (ex3_nn.m)[ex3/ex3_nn.m], you will be able to watch an interactice sequence that displays images from the training set
+Upon running [ex3_nn.m](ex3/ex3_nn.m), you will be able to watch an interactice sequence that displays images from the training set
 one at a time and shows the prediction for what the network thinks that digit is. 
 

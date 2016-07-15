@@ -41,3 +41,4 @@ be used to build more consistent hypotheses.
 Upon running [ex3_nn.m](ex3/ex3_nn.m), you will be able to watch an interactice sequence that displays images from the training set
 one at a time and shows the prediction for what the network thinks that digit is. 
 
+<img src="ex3/gif_demo.gif" alt="Neural Network Demo">

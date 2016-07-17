@@ -36,7 +36,7 @@ In addition to the logistic regression, I was also required to run predictions f
 representation, with one input layer, one hidden layer, and one output layer. In this case, the initial hypotheses at each layer
 were in a raw data file. I simply used these inputs to run some Feedforward Propogation on the network. This time, however, the
 accuracy of the predictions _increased_ to roughly **97.5%**. This is indicative of the fact that nonlinear hypotheses can often
-be used to build more consistent hypotheses. 
+be used to obtain more consistent results.
 
 Upon running [ex3_nn.m](ex3/ex3_nn.m), you will be able to watch an interactice sequence that displays images from the training set
 one at a time and shows the prediction for what the network thinks that digit is. 
